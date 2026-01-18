@@ -68,7 +68,7 @@ graph TB
 #### **Option 1: Using CMake (Recommended)**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Tetris-SFML.git
+git clone https://github.com/Arif Ali/Tetris-SFML.git
 cd Tetris-SFML
 
 # Create build directory
@@ -183,7 +183,7 @@ We love your input! Want to contribute? Here's how:
 ## 📞 **Support & Community**
 
 Found a bug or have a suggestion? 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: 2arif2143055@gmail.com
 - 💬 **Discussions**: GitHub Discussions tab
 - 🐛 **Issues**: GitHub Issues tracker
 
@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/Tetris-SFML?style=social)](https://github.com/yourusername/Tetris-SFML)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/Tetris-SFML?style=social)](https://github.com/yourusername/Tetris-SFML)
+  [![GitHub stars](https://img.shields.io/github/stars/Arif Ali/Tetris-SFML?style=social)](https://github.com/Arif Ali/Tetris-SFML)
+  [![GitHub forks](https://img.shields.io/github/forks/ArifAli8866/Tetris-SFML?style=social)](https://github.com/ArifAli8866/Tetris-SFML)
 
 </div>
 
@@ -241,10 +241,3 @@ To upload this project to GitHub with your new README:
    git push -u origin main
    ```
 
-4. **Customize the README:**
-   - Replace `yourusername` with your GitHub username
-   - Update email in Support section
-   - Add actual screenshots (replace placeholder)
-   - Update any paths or details specific to your setup
-
-The README is now ready to make a great first impression on GitHub!
