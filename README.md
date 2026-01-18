@@ -13,6 +13,8 @@
 
 <p align="center">
   <img src="https://via.placeholder.com/800x400/2d3748/ffffff?text=Tetris+SFML+Gameplay+Preview" alt="Game Preview" width="800">
+  <br>
+  <em>Add your actual gameplay screenshot here after uploading!</em>
 </p>
 
 ## ✨ **Features That Pop**
@@ -68,7 +70,7 @@ graph TB
 #### **Option 1: Using CMake (Recommended)**
 ```bash
 # Clone the repository
-git clone https://github.com/Arif Ali/Tetris-SFML.git
+git clone https://github.com/ArifAli8866/Tetris-SFML.git
 cd Tetris-SFML
 
 # Create build directory
@@ -184,8 +186,8 @@ We love your input! Want to contribute? Here's how:
 
 Found a bug or have a suggestion? 
 - 📧 **Email**: 2arif2143055@gmail.com
-- 💬 **Discussions**: GitHub Discussions tab
-- 🐛 **Issues**: GitHub Issues tracker
+- 💼 **LinkedIn**: [Arif Ali](https://www.linkedin.com/in/arif-ali-23a38032a/)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ArifAli8866/Tetris-SFML/issues)
 
 ## 📜 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -199,16 +201,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ and excessive amounts of <code>caffeine</code>
-</p>
-<p align="center">
-  ⭐ <strong>Star this repo if you found it useful!</strong> ⭐
+  Developed with ❤️ by <strong>Arif Ali</strong>
+  <br>
+  <a href="https://github.com/ArifAli8866">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/arif-ali-23a38032a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <div align="center">
   
-  [![GitHub stars](https://img.shields.io/github/stars/Arif Ali/Tetris-SFML?style=social)](https://github.com/Arif Ali/Tetris-SFML)
-  [![GitHub forks](https://img.shields.io/github/forks/ArifAli8866/Tetris-SFML?style=social)](https://github.com/ArifAli8866/Tetris-SFML)
+  [![GitHub followers](https://img.shields.io/github/followers/ArifAli8866?style=social)](https://github.com/ArifAli8866)
+  [![GitHub stars](https://img.shields.io/github/stars/ArifAli8866/Tetris-SFML?style=social)](https://github.com/ArifAli8866/Tetris-SFML/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/ArifAli8866/Tetris-SFML?style=social)](https://github.com/ArifAli8866/Tetris-SFML/network/members)
 
 </div>
 
@@ -220,24 +227,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🚀 **Quick Start for GitHub Upload**
 
-To upload this project to GitHub with your new README:
+Here are the exact commands to upload your project:
 
-1. **Initialize Git repository:**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Modern Tetris with SFML"
-   ```
+```bash
+# 1. Initialize Git repository
+git init
 
-2. **Create repository on GitHub:**
-   - Go to https://github.com/new
-   - Name it "Tetris-SFML"
-   - Don't initialize with README (you already have one)
+# 2. Add all your files
+git add .
 
-3. **Link and push:**
-   ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/Tetris-SFML.git
-   git branch -M main
-   git push -u origin main
-   ```
+# 3. Make your first commit
+git commit -m "Initial commit: Modern Tetris with SFML - Feature complete game with polished UI"
 
+# 4. Link to your GitHub repository (create it first at https://github.com/new)
+git remote add origin https://github.com/ArifAli8866/Tetris-SFML.git
+
+# 5. Rename branch to main and push
+git branch -M main
+git push -u origin main
+```
